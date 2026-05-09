@@ -17,7 +17,7 @@ _Tip: Clear the context window before invoking the next skill._
 1. `define-resume-objectives`
 2. `collect-integrate-new-accomplishments`
 3. `rewrite-experience-sections`
-4. `revise-skills-section`
+4. `update-skills-section`
 5. `revise-tagline-summary-key-strengths`
 6. `recommend-resume-format`
 7. `recommend-linkedin-content`
