@@ -1,9 +1,19 @@
 # Description
 This repository contains prompts that you can use with an LLM tool to refresh an existing resume.
 
-Although this had practical uses (i.e., updating my own resume), I approached it from an agentic viewpoint where I start with a plan and have separate prompts for implementing that plan in small, focused steps that feed into one another.
+Although this has practical uses (i.e., updating my own resume), I approached it from an agentic viewpoint where I start with a plan and have separate prompts for implementing that plan in small, focused steps that feed into one another.
 
-The prompts were used with ChatGPT 5.1 (as of Dec 2025) and should work with any other foundation model.
+# How to use
+The `plan-resume-update` skill led to the creation of the other skills in this repo. Review, revise, and invoke that skill to build out other skills as needed.
+
+You can also use the skills I've provided here:
+1. `define-resume-objectives`
+2. `collect-integrate-new-accomplishments`
+3. `rewrite-experience-sections`
+4. `revise-skills-section`
+5. `revise-tagline-summary-key-strengths`
+6. `recommend-resume-format`
+7. `recommend-linkedin-content`
 
 # Other considerations
 - The prompts were specific to my use case (i.e., my resume and career goals); however, you should be able to modify them to suit your needs.
@@ -18,5 +28,4 @@ The prompts were used with ChatGPT 5.1 (as of Dec 2025) and should work with any
 - Even after multiple iterations, there were instances when I discarded AI's responses and wrote sections myself.
 - There were times when I asked AI to review its results and it disagreed with previous outputs.
 - You are always in the driver's seat when using AI. Carefully read its responses and edit or reprompt where needed.
-- My intent was to accomplish the resume refresh task; however, through this process I now have a better understanding of how I'd do (or help others do) this task. I tend to treat AI as a _teacher_ rather than solely as a task delegation/execution machine.
-- (Dec 2025) Despite starting new conversations, ChatGPT was able to recall other conversations where I used it to craft parts of my resume.
+- My intent was to accomplish the resume refresh task; however, through this process I now have a better understanding of how I'd do (or help others do) this task.
