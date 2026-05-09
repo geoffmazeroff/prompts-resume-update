@@ -6,7 +6,7 @@ Although this has practical uses (i.e., updating my own resume), I approached it
 # How to use
 The `plan-resume-update` skill led to the creation of the other skills in this repo. Review, revise, and invoke that skill to build out other skills as needed.
 
-You can also use the skills I've provided here:
+You can also use the skills I've provided here. Tip: Clear the context window before invoking the next skill.
 1. `define-resume-objectives`
 2. `collect-integrate-new-accomplishments`
 3. `rewrite-experience-sections`
