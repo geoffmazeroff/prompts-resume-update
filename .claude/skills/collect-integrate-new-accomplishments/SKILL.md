@@ -10,16 +10,16 @@ Ask questions one at a time.
 
 # Workflow
 Ask me for the following:
-- My resume intent statement.
+- My resume objective statement.
 - The current content of my experience section for my current role.
 - Notes that I've gathered over the past several months about my tasks and accomplishments at this role.
 - Feedback I've received from peers about my performance.
 
-Categorize, quantify, and de-duplicate; then provide updated experience section content that aligns with the resume intent.
+Categorize, quantify, and de-duplicate; then provide updated experience section content that aligns with the resume objective.
 
 Work with me to approve the updated content.
 
 # Output
-Produce an updated experience section in Mardown format.
+Produce an updated experience section in Markdown format.
 
 The output should be stored in the `working-files/` folder at the root of the repo. Create this folder if it doesn't exist.

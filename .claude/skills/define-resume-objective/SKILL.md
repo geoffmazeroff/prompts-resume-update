@@ -13,7 +13,7 @@ Ask questions one at a time.
 # Workflow
 Start by asking me for my existing resume summary paragraph and "About" section content from LinkedIn.
 
-Create a clear "resume intent statement" describing:
+Create a clear resume objective statement describing:
 - Breadth of skills
 - Adaptive leadership
 - Technical + coaching capabilities
