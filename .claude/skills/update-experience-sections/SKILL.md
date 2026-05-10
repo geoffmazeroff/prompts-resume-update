@@ -1,5 +1,5 @@
 ---
-name: rewrite-experience-sections
+name: update-experience-sections
 description: Collect content from the user's experiences on their resume to ensure the content is consistent. Use when the user wants to update multiple experience sections on their resume.
 ---
 
