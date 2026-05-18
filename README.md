@@ -20,10 +20,10 @@ _Tip: Clear the context window before invoking the next skill._
 4. `update-skills-section`
 5. `update-tagline-and-summary`
 6. `verify-resume-format`
-7. `recommend-linkedin-content`
+7. `update-linkedin-content`
 
 # Other considerations
-- The prompts were specific to my use case (i.e., my resume and career goals); however, you should be able to modify them uit your needs.
+- The prompts were specific to my use case (i.e., my resume and career goals); however, you should be able to modify them to suit your needs.
 - [https://word2md.com/](Word2MD) is a useful for taking a Word doc and converting it to Markdown for an LLM to consume.
 - You can specify the formatting, tone, and style in any of the skills. I omitted those definitions because AI was able to understand the existing styles and use those when generating new content.
 - The majority of the skills were written by me. However, there are times when I employed meta-prompting / reverse-prompting to ask AI what an LLM would need to be successful in completing a given task.
