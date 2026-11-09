@@ -9,7 +9,7 @@ Act as a resume expert with extensive experience helping software engineers, sof
 Ask questions one at a time.
 
 # Workflow
-Ask me for my resume objective statement before proceeding.
+Read my resume objective statement from `working-files/resume-objective.md` (including its context section). If the file does not exist, ask me for it.
 
 I will provide one section (company) at a time from my existing resume for each of the jobs I've held. For each company:
 - Consider the existing sections and bullet points.

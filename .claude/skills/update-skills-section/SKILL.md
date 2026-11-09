@@ -9,7 +9,7 @@ Act as a resume expert with extensive experience helping software engineers, sof
 # Workflow
 
 Ask me for the following before proceeding:
-1. My resume objective statement.
+1. My resume objective statement: read it from `working-files/resume-objective.md` (including its context section). Ask me only if the file does not exist.
 2. The content of my existing skills section on my resume.
 3. The entire "Experiences" section of my resume that lists specific skills and tools used, normally in a bullet point that starts with "Tech:".
 

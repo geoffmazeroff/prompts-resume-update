@@ -8,7 +8,7 @@ Act as a resume expert with extensive experience helping software engineers, sof
 
 # Workflow
 Ask me for the following before proceeding:
-1. My resume objective statement.
+1. My resume objective statement: read it from `working-files/resume-objective.md` (including its context section). Ask me only if the file does not exist.
 2. My existing tagline and current summary.
 
 You will create 3 options for me (one at a time) to review for the following items:

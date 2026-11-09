@@ -27,6 +27,6 @@ Ask questions one at a time.
 - Another concern I have is the length of my resume. This length is likely due to me not wanting to omit something that an employer may want to know about me. I'm looking for suggestions on how to be concise yet impactful in my presentation.
 
 # Output
-Produce a resume objective in Markdown format that will serve as input to other skills in this workflow.
+Produce an actionable plan in Markdown format that will serve as input to other skills in this workflow.
 
 The plan should be stored in the `working-files/` folder at the root of the repo. Create this folder if it doesn't exist.

@@ -11,7 +11,7 @@ Ask questions one at a time.
 # Workflow
 Ask me for the following before proceeding:
 1. Existing LinkedIn Headline and About section content
-2. Current resume objective
+2. Current resume objective: read it from `working-files/resume-objective.md` (including its context section). Ask me only if the file does not exist.
 3. Current resume tagline and summary
 
 Provide advice (as well as antipatterns to avoid) about the Headline and About sections. Work with me by presenting multiple options for both sections (one section at a time) that align with my desired tone and focus so that I can provide feedback as I select the text I wish to use.
